@@ -23,6 +23,7 @@ A continuación se presenta una captura de la aplicación ejecutándose en el em
 *(Agregá aquí la captura como imagen en el README o como archivo adjunto si lo pide la plataforma)*
 ![Captura de pantalla](Ejercicio1y2.png)
 
+
 ---
 
 ## Autor
